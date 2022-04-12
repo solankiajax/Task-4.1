@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Study Timer</string>
+    <string name="displayTime">You spent 00:00 on ... last time.</string>
+    <string name="time">00:00:00</string>
+    <string name="taskNamePopUp">Enter your task type:</string>
+    <string name="taskName" />
+    <string name="hint_task"/>
+    <string name="playButton" />
+    <string name="pauseButton" />
+    <string name="stopButton" />
+</resources>
